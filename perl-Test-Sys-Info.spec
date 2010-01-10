@@ -1,5 +1,5 @@
 %define upstream_name    Test-Sys-Info
-%define upstream_version 0.17
+%define upstream_version 0.20
 
 Summary:	Centralized test suite for Sys::Info
 Name:		perl-%{upstream_name}
